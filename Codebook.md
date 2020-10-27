@@ -1,8 +1,7 @@
 ---
 title: "Codebook.md"
 output: github_document
-author: "Kathy Targowski Ashenfelter"
----
+--
 
 ## Libraries Required
 
